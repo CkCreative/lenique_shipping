@@ -1,0 +1,110 @@
+[
+  {
+    "location": "Nairobi",
+    "options": [
+      {
+        "name": "Wells Fargo",
+        "cost": 200,
+        "estimated_delivery_time": "1 — 2 days"
+      },
+      {
+        "name": "G4S",
+        "cost": 200,
+        "estimated_delivery_time": "1 — 2 days"
+      },
+      {
+        "name": "Bus",
+        "cost": 0,
+        "estimated_delivery_time": "—"
+      },
+      {
+        "name": "Other",
+        "cost": 0,
+        "estimated_delivery_time": "—"
+      }
+    ]
+  },
+  {
+    "location": "Western Region",
+    "options": [
+      {
+        "name": "Wells Fargo",
+        "cost": 500,
+        "estimated_delivery_time": "2 — 4 days"
+      },
+      {
+        "name": "G4S",
+        "cost": 500,
+        "estimated_delivery_time": "2 — 4 days"
+      },
+      {
+        "name": "Bus",
+        "cost": 450,
+        "estimated_delivery_time": "2 — 4 days"
+      },
+      {
+        "name": "Other",
+        "cost": 0,
+        "estimated_delivery_time": "—"
+      }
+    ]
+  },
+  {
+    "location": "Central Kenya",
+    "options": [
+      {
+        "name": "Wells Fargo",
+        "cost": 400,
+        "estimated_delivery_time": "2 — 4 days"
+      },
+      {
+        "name": "G4S",
+        "cost": 400,
+        "estimated_delivery_time": "2 — 4 days"
+      },
+      {
+        "name": "Bus",
+        "cost": 350,
+        "estimated_delivery_time": "2 — 4 days"
+      },
+      {
+        "name": "Other",
+        "cost": 0,
+        "estimated_delivery_time": "—"
+      }
+    ]
+  },
+  {
+    "location": "Coast Region",
+    "options": [
+      {
+        "name": "Wells Fargo",
+        "cost": 500,
+        "estimated_delivery_time": "2 — 4 days"
+      },
+      {
+        "name": "G4S",
+        "cost": 500,
+        "estimated_delivery_time": "2 — 4 days"
+      },
+      {
+        "name": "Bus",
+        "cost": 400,
+        "estimated_delivery_time": "2 — 4 days"
+      },
+      {
+        "name": "Other",
+        "cost": 0,
+        "estimated_delivery_time": "—"
+      }
+    ]
+  },
+  {
+    "location": "",
+    "options": [
+      {
+        "cost": null
+      }
+    ]
+  }
+]

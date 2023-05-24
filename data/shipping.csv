@@ -1,0 +1,17 @@
+location,name,cost,estimated_delivery_time
+Nairobi,Wells Fargo,200,1 — 2 days
+Nairobi,G4S,200,1 — 2 days
+Nairobi,Bus,0,—
+Nairobi,Other,0,—
+Western Region,Wells Fargo,500,2 — 4 days
+Western Region,G4S,500,2 — 4 days
+Western Region,Bus,450,2 — 4 days
+Western Region,Other,0,—
+Central Kenya,Wells Fargo,400,2 — 4 days
+Central Kenya,G4S,400,2 — 4 days
+Central Kenya,Bus,350,2 — 4 days
+Central Kenya,Other,0,—
+Coast Region,Wells Fargo,500,2 — 4 days
+Coast Region,G4S,500,2 — 4 days
+Coast Region,Bus,400,2 — 4 days
+Coast Region,Other,0,—
